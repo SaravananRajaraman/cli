@@ -2,7 +2,7 @@
 
 Create a web development and prototype file generator.
 
-[![Build Status](https://travis-ci.org/cedced19/gallery-creator.svg?branch=master)](https://travis-ci.org/cedced19/gallery-creator)
+[![Build Status](https://travis-ci.org/SaravananRajaraman/creator-cli.svg?branch=master)](https://travis-ci.org/SaravananRajaraman/creator-cli)
 [![npm version](https://badge.fury.io/js/creator-cli.svg)](https://badge.fury.io/js/creator-cli)
 
 ```
