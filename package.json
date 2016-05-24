@@ -2,7 +2,7 @@
   "name": "creator-cli",
   "version": "0.0.2",
   "description": "",
-  "main": "lib/index.js",
+  "main": "./bin/creator.js",
   "bin": {
     "creator": "./bin/creator.js"
   },
